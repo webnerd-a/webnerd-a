@@ -5,7 +5,7 @@ I'm still making some cool projects ;3
 
 ## My tech skills!
 
-HTML/CSS, JS, C#, GDScript, PixelArt and chiptune fan and C++!
+HTML/CSS, JS, C#, GDScript, using blender, im a PixelArt and chiptune fan and using C++!
 
 ## Some web projects...
 
