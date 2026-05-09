@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 I'm aly, im really like using computers, programming, websites and gamedev enthuasiast!
+I'm still making some cool projects ;3
 
 ## My tech skills!
 
