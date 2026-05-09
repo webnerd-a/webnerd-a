@@ -9,19 +9,19 @@ HTML/CSS, JS, C#, GDScript, using blender, im a PixelArt and chiptune fan and us
 
 ## Some web projects...
 
-==COMING SOON==
+==UNDER CONSTRUCTION==
 
 ## Some game projects...
 
-==COMING SOON TOO==
+==UNDER CONSTRUCTION==
 
 ## Other tools...
 
-==COMING SOON TOO==
+==UNDER CONSTRUCTION==
 
 ## Other projects...
 
-==COMING SOON TOO==
+==UNDER CONSTRUCTION==
 
 ## REMEMBER!!!
 
