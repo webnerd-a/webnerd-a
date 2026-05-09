@@ -6,15 +6,19 @@ I'm aly, im really like using computers, programming, websites and gamedev enthu
 
 HTML/CSS, JS, C#, GDScript, PixelArt and chiptune fan and C++!
 
-## Some web projects!
+## Some web projects...
 
 ==COMING SOON==
 
-## Some game projects!
+## Some game projects...
 
 ==COMING SOON TOO==
 
-## Other tools!
+## Other tools...
+
+==COMING SOON TOO==
+
+## Other projects...
 
 ==COMING SOON TOO==
 
