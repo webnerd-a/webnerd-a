@@ -9,3 +9,4 @@ HTML/CSS, JS, C#, GDScript, PixelArt and chiptune fan and C++!
 ## Some projects!
 
 ==COMING SOON==
+sleep, food, code, playing, repeat!
